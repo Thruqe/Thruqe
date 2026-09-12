@@ -22,4 +22,4 @@ func main() {
 
 **I love web scraping & reverse engineering.**
 
-_**If you are looking for someone to help you fix a problem or develop a solution that works, do not hesitate to contact me at [thruqe@outlook.com](mailto:thruqe@outlook.com)**_
+_**If you are looking for someone to help you fix a problem or develop a solution that works, do not hesitate to contact me at [thruqe@gmail.com](mailto:thruqe@gmail.com)**_
